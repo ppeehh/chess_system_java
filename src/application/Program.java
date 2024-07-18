@@ -10,6 +10,11 @@ public class Program {
 
 		 UI.printBoard(chessmatch.getPieces());
 
+<<<<<<< HEAD
+=======
+		
+
+>>>>>>> d8c5dfdc5e2e986eccedff5318092c7088a3d557
 	}
 
 }
